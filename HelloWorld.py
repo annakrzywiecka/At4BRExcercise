@@ -1,3 +1,2 @@
 print("HelloWorld")
-print("Hola!")
-print("Dzien Dobry")
+print("Dzien nieDobry")
